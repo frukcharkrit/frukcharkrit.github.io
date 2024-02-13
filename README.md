@@ -1,5 +1,6 @@
-![banner](![image](https://github.com/frukcharkrit/frukcharkrit.github.io/assets/157786904/7f5311ae-a8b2-430a-8f36-8c9986fda31d)
-)
+
+![sunflower-1627193_1920](https://github.com/frukcharkrit/frukcharkrit.github.io/assets/157786904/9a632902-721d-43b6-9526-01d2c1839731)
+
 # สมุดบันทึก
 
 สำหรับรายวิชา [OOP](https://frukcharkrit.github.io/)
