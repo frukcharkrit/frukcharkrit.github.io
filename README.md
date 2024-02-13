@@ -2,6 +2,6 @@
 )
 # สมุดบันทึก
 
-สำหรับรายวิชา OOP
+สำหรับรายวิชา [OOP]([https:frukcharkrit.github.io](https://github.com/frukcharkrit/frukcharkrit.github.io)https://github.com/frukcharkrit/frukcharkrit.github.io)
 
 ลงชื่อ - ชาคริต พิมพ์สระเกษ
