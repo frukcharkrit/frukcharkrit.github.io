@@ -6,3 +6,25 @@
 สำหรับรายวิชา [OOP](https://frukcharkrit.github.io/)
 
 ลงชื่อ - ชาคริต พิมพ์สระเกษ
+
+# เริ่มต้นพัฒนา streamlit
+
+1. clone จาก github
+
+git clone https://github.com/frukcharkrit/frukcharkrit.github.io.git
+
+2. deactivate
+
+conda deactivate
+
+3. สร้างสภาพแวดล้อมใหม่
+
+python -m venv venv
+
+4. activate สภาพแวดล้อมใหม่
+
+venv/scripts/activate
+
+5. ติดตั้ง streamlit
+
+pip install streamlit
