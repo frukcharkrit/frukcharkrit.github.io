@@ -3,6 +3,7 @@ from PIL import Image
 import torch
 import streamlit as st
 
+
 h = st.header('My Web Site on Diffusion')
 s = st.subheader('เว็บไซต์ส่วนตัวของฉัน')
 p = st.write('เว็บนี้ทำเพื่อเป็นพื้นฐานในการทำ streamlit เท่านั้น')
